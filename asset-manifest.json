@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-journal-app2/static/css/main.f900b001.css",
+    "main.js": "/react-journal-app2/static/js/main.a7dbf5e5.js",
+    "static/js/787.a40338ab.chunk.js": "/react-journal-app2/static/js/787.a40338ab.chunk.js",
+    "index.html": "/react-journal-app2/index.html",
+    "static/media/star-filled.svg": "/react-journal-app2/static/media/star-filled.1b77577b9592a0d88d5586ef34c3fb5c.svg",
+    "static/media/star.svg": "/react-journal-app2/static/media/star.fb2428c8b399218858cab084d0ef2467.svg",
+    "main.f900b001.css.map": "/react-journal-app2/static/css/main.f900b001.css.map",
+    "main.a7dbf5e5.js.map": "/react-journal-app2/static/js/main.a7dbf5e5.js.map",
+    "787.a40338ab.chunk.js.map": "/react-journal-app2/static/js/787.a40338ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f900b001.css",
+    "static/js/main.a7dbf5e5.js"
+  ]
+}
