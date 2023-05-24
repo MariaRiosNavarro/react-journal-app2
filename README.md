@@ -1,4 +1,16 @@
-# React with Local Storage: Journal App with Local Storage
+# The first version of the journal made entirely by me is [here](https://github.com/MariaRiosNavarro/my-journal), 
+
+# this version is downloaded from the Challenges to do the "Local Storage" exercise.
+
+---
+
+---
+
+---
+
+---
+
+
 
 Make your journal entries persistent by saving them to local storage.
 
