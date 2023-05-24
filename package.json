@@ -1,5 +1,6 @@
 {
   "name": "react-with-local-storage_journal-app-with-local-storage",
+  "homepage": "http://MariaRiosNavarro.github.io/react-journal-app2",
   "version": "0.0.0-unreleased",
   "private": true,
   "dependencies": {
@@ -17,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+"deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -40,5 +43,8 @@
   "description": "React State: Journal App with localStorage",
   "nf": {
     "template": "cra"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
