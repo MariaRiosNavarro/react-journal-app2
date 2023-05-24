@@ -1,6 +1,6 @@
 # The first version of the journal made entirely by me is [here](https://github.com/MariaRiosNavarro/my-journal), 
 
-# this version is downloaded from the Challenges to do the "Local Storage" exercise.
+# this [version](https://mariariosnavarro.github.io/react-journal-app2/) is downloaded from the Challenges to do the "Local Storage" exercise.
 
 ---
 
